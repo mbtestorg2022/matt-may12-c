@@ -1,0 +1,30 @@
+{
+  "term": "Spring",
+  "year": "2027",
+  "level": [],
+  "topics": [],
+  "s3_path": "courses/matt-may12-c",
+  "url_path": "courses/123a-may-12-site-spring-2025",
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "matt-may12-c"
+  },
+  "course_image": {
+    "content": "",
+    "website": "matt-may12-c"
+  },
+  "course_title": "May 12 Site",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123A",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "matt-may12-c"
+  },
+  "learning_resource_types": [],
+  "site_uid": "f613e900-a277-4f4b-bdbb-e9af62d0b20b"
+}
