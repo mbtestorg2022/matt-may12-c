@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: ''
-file: /courses/123a-may-12-site-spring-2027/screen-shot-2022-05-18-at-21358-pm.png
+file: /courses/123a-may-12-site-spring-2027a/screen-shot-2022-05-18-at-21358-pm.png
 file_type: image/png
 image_metadata:
   caption: ''
